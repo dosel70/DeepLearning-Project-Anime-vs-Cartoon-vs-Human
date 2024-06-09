@@ -68,7 +68,7 @@
 ## 이미지-시각화   
 <img src='https://github.com/dosel70/DeepLearning_Project/assets/143694489/5683c43e-629c-4e39-9480-0ed69e4e23cc' width="600">  
 
-✏️ 여러가지 실제 스포츠 이미지를 볼 수 있습니다.  
+✏️ 총 3종류의 이미지를 확인 할 수 있습니다.  
 
 ## 1 Cycle
 - 💡 EfficentNetB0 사전훈련 모델 훈련 실시  
